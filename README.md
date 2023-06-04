@@ -3,8 +3,6 @@ What do other LLMs think about the quality of other LLMs when compared to humans
 
 # What do Models Think About Other Models?
 
-This project is based on the research paper "SEAHORSE: A Multilingual, Multifaceted Dataset for Summarization Evaluation" and aims to use a dataset consisting of human ratings to compare the evaluation of machine learning models in summarizing text against those of humans[[11†source]](https://www.semanticscholar.org/paper/SEAHORSE%3A-A-Multilingual%2C-Multifaceted-Dataset-for/).
-
 ## About the Dataset
 
 SEAHORSE is a dataset introduced for multilingual, multifaceted summarization evaluation. The dataset consists of 96K summaries with human ratings along six quality dimensions: comprehensibility, repetition, grammar, attribution, main ideas, and conciseness[[11†source]](https://www.semanticscholar.org/paper/SEAHORSE%3A-A-Multilingual%2C-Multifaceted-Dataset-for/).
